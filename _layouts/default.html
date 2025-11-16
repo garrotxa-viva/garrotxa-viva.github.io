@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <img src="{{ '/assets/images/logo.jpeg' | relative_url }}" alt="{{ site.title }} Logo" class="logo">
+    <main class="content-box">
+      {{ content }}
+    </main>
+  </div>
+  <footer>
+    <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}</p>
+    <p>Fotos: <a href="https://www.instagram.com/daveandworld/" target="_blank" rel="noopener">@daveandworld</a></p>
+  </footer>
+</body>
+</html>
