@@ -78,19 +78,21 @@ body::after {
 }
 
 h1 {
-  font-size: clamp(1.75rem, 5vw, 3rem);
+  font-size: clamp(1.375rem, 3.5vw, 1.75rem);
   margin-bottom: 1rem;
+  margin-top: 1.75rem;
   color: #2c3e50;
-  text-align: center;
-  font-weight: 700;
+  font-weight: 600;
+  letter-spacing: -0.02em;
 }
 
 h2 {
-  font-size: clamp(1.25rem, 3vw, 1.75rem);
+  font-size: clamp(1.125rem, 2.5vw, 1.375rem);
   margin-top: 1.5rem;
   margin-bottom: 0.75rem;
   color: #34495e;
   font-weight: 600;
+  letter-spacing: -0.01em;
 }
 
 p {
