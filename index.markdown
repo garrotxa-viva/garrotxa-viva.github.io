@@ -3,6 +3,12 @@ layout: default
 title: Garrotxa Viva
 ---
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/HwiF46DtGAw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<main class="content-box" markdown="1">
+
 **Garrotxa Viva** és una plataforma formada per persones que vivim a la Garrotxa i que ens uneix un mateix propòsit: vetllar pel futur del nostre territori i de les properes generacions.
 
 Col·laborem estretament amb l'entitat **Salvem les Valls** per donar a conèixer l'impacte que generaria el projecte de la variant. El nostre objectiu és multiplicar la mobilització social i la sensibilització per un futur millor de la comarca.
@@ -48,3 +54,5 @@ Aquesta indústria **consumeix elevades quantitats d'aigua**, arribant a una cin
 - Potenciar el **transport públic i una mobilitat sostenible**.
 
 - Valorar més propostes de la gent de la Garrotxa!
+
+</main>
