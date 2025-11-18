@@ -49,18 +49,58 @@ body::after {
 }
 
 .site-header {
-  width: 90%;
-  max-width: 50rem;
-  margin: 0 0;
-  padding: 0 0;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.75), rgba(250, 250, 248, 0.7));
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.1);
+  padding: 0.75rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 .logo {
-  max-width: 8rem;
+  max-width: 4rem;
   height: auto;
   display: block;
   border-radius: 0.5rem;
   box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.3);
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  margin: 0;
+}
+
+nav a {
+  color: #2c3e50;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: color 0.3s ease;
+  padding: 0.5rem 0.75rem;
+  display: block;
+  border-radius: 0.5rem;
+}
+
+nav a:hover {
+  color: #27ae60;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+nav a.active {
+  color: #27ae60;
 }
 
 .container {
@@ -173,11 +213,19 @@ footer {
 
 @media (min-width: 48rem) {
   .site-header {
-    padding: 2rem 2rem 0;
+    padding: 1rem 2rem;
   }
 
   .logo {
-    max-width: 10rem;
+    max-width: 4rem;
+  }
+
+  nav ul {
+    gap: 2rem;
+  }
+
+  nav a {
+    font-size: 1rem;
   }
 
   .container {
@@ -209,11 +257,20 @@ footer {
   }
 
   .site-header {
-    padding: 1rem 1rem 0;
+    padding: 0.5rem 0.75rem;
   }
 
   .logo {
-    max-width: 6rem;
+    max-width: 4rem;
+  }
+
+  nav ul {
+    gap: 0.75rem;
+  }
+
+  nav a {
+    padding: 0.4rem 0.6rem;
+    font-size: 0.85rem;
   }
 
   .content-box {

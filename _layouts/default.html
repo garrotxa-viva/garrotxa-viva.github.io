@@ -10,6 +10,12 @@
 <body>
   <header class="site-header">
     <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ site.title }} Logo" class="logo">
+    <nav>
+      <ul>
+        <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Inici</a></li>
+        <li><a href="{{ '/veus-del-territori.html' | relative_url }}" {% if page.url == '/veus-del-territori.html' %}class="active"{% endif %}>Veus del territori</a></li>
+      </ul>
+    </nav>
   </header>
   <div class="container">
     {{ content }}
