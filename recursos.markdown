@@ -5,7 +5,7 @@ title: Recursos - Garrotxa Viva
 
 <main class="content-box" markdown="1">
 
-# RECURSOS
+# Recursos
 
 - [Els 'manneken pis' de la vall](https://www.elpuntavui.cat/societat/article/12-infraestructures/2554574-els-manneken-pis-de-la-vall.html)
 
