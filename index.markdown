@@ -11,7 +11,7 @@ title: Garrotxa Viva
 
 **Garrotxa Viva** és una plataforma formada per persones que vivim a la Garrotxa i que ens uneix un mateix propòsit: vetllar pel futur del nostre territori i de les properes generacions.
 
-Col·laborem estretament amb l'entitat **Salvem les Valls** per donar a conèixer l'impacte que generaria el projecte de la variant. El nostre objectiu és multiplicar la mobilització social i la sensibilització per un futur millor de la comarca.
+Col·laborem estretament amb l'entitat [**Salvem les Valls**](https://salvemlesvalls.cat/) per donar a conèixer l'impacte que generaria el projecte de la variant. El nostre objectiu és multiplicar la mobilització social i la sensibilització per un futur millor de la comarca.
 
 # COM AFECTA EL PROJECTE ACTUAL DE LA VARIANT SOBRE L'AQÜÍFER?
 
