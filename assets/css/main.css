@@ -269,8 +269,22 @@ a:hover {
 }
 
 .content-box li {
+  margin-bottom: 0.25rem;
+  padding: 0.5rem 0 0.5rem 1.5rem;
+  position: relative;
+  color: #2c3e50;
+}
+
+.content-box li::before {
+  content: '•';
+  position: absolute;
+  left: 0.5rem;
+  color: #27ae60;
+  font-weight: bold;
+}
+
+.recursos-content li {
   margin-bottom: 1rem;
-  padding: 0.75rem 1rem 0.75rem 2.5rem;
   position: relative;
   background: rgba(255, 255, 255, 0.4);
   border-radius: 0.5rem;
@@ -278,23 +292,39 @@ a:hover {
   border-left: 3px solid #27ae60;
 }
 
-.content-box li:hover {
+.recursos-content li:hover {
   background: rgba(255, 255, 255, 0.6);
   transform: translateX(0.25rem);
   box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.1);
 }
 
-.content-box li::before {
+.recursos-content li a {
+  display: block;
+  padding: 0.75rem 1rem 0.75rem 2.5rem;
+  color: #2c3e50;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+.recursos-content li a:hover {
+  color: #2c3e50;
+  text-decoration: none;
+}
+
+.recursos-content li::before {
   content: '→';
   position: absolute;
   left: 0.75rem;
+  top: 0.75rem;
   color: #27ae60;
   font-weight: bold;
   font-size: 1.25rem;
   transition: transform 0.3s ease;
+  z-index: 1;
+  pointer-events: none;
 }
 
-.content-box li:hover::before {
+.recursos-content li:hover::before {
   transform: translateX(0.25rem);
 }
 
