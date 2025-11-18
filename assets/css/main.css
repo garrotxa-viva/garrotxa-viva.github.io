@@ -238,11 +238,41 @@ a:hover {
 }
 
 footer {
-  text-align: center;
-  padding: 1rem;
+  padding: 1.5rem 1rem;
   color: rgba(255, 255, 255, 0.9);
-  font-size: 0.875rem;
   margin-top: auto;
+}
+
+.footer-content {
+  width: 90%;
+  max-width: 50rem;
+  margin: 0 auto;
+}
+
+.footer-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.footer-left {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.footer-right {
+  margin: 0;
+  font-size: 0.8rem;
+  text-align: right;
+}
+
+.footer-credits {
+  margin: 0;
+  font-size: 0.8rem;
+  text-align: right;
+  opacity: 0.8;
 }
 
 @media (min-width: 48rem) {
@@ -322,5 +352,20 @@ footer {
 
   .video-container {
     margin-bottom: 2rem;
+  }
+
+  .footer-row {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .footer-right {
+    text-align: left;
+  }
+
+  .footer-left,
+  .footer-right,
+  .footer-credits {
+    font-size: 0.7rem;
   }
 }
