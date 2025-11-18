@@ -311,6 +311,17 @@ a:hover {
   text-decoration: none;
 }
 
+.recursos-content li a .source {
+  display: block;
+  font-size: 0.75rem;
+  color: #27ae60;
+  font-weight: 600;
+  margin-top: 0.25rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  opacity: 0.8;
+}
+
 .recursos-content li::before {
   content: '→';
   position: absolute;
