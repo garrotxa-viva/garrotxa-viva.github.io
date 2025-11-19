@@ -21,7 +21,7 @@ title: Recursos - Garrotxa Viva
 
 - [Diverses entitats alerten de l'impacte de la variant de les Preses a l'aqüífer de la Vall d'en Bas <span class="source">Directa</span>](https://directa.cat/entitats-ecologistes-alerten-de-limpacte-de-la-variant-de-les-preses-a-laquifer-de-la-vall-den-bas/)
 
-- [Notícies sobre la variant de les Preses <span class="source">El Setembre</span>](https://www.elsetembre.cat/noticies/etiqueta/variant+de+les+Preses)
+- [Entitats ecologistes alerten de l’impacte de la variant de les Preses a l’aqüífer de la Vall d’en Bas <span class="source">El Setembre</span>](https://www.elsetembre.cat/noticia/1914/entitats-ecologistes-alerten-impacte-variant-preses-aquifer-vall-bas)
 
 - [Preocupació entre els pagesos pel futur de l'aqüífer de la Vall d'en Bas <span class="source">3Cat</span>](https://www.3cat.cat/3cat/preocupacio-entre-els-pagesos-pel-futur-de-laquifer-de-la-vall-den-bas/video/6356636/)
 
