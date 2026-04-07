@@ -27,4 +27,8 @@ title: Recursos - Garrotxa Viva
 
 - [Els comuns insten el govern a protegir l'aqüífer <span class="source">Diari de Girona</span>](https://www.diaridegirona.cat/comarques/2025/09/10/els-comuns-insten-govern-protegir-121425244.html)
 
+- [Tres empreses, catorze milions de porcs: així és la gran concentració empresarial de la carn <span class="source">El Crític</span>](https://www.elcritic.cat/noticies/tres-empreses-catorze-milions-de-porcs-aixi-es-la-gran-concentracio-empresarial-de-la-carn-256624)
+
+- [Carreteras sin presupuestos, la variante de Olot y 470 millones para las constructoras <span class="source">El Confidencial</span>](https://archive.ph/g0x5T)
+
 </main>
