@@ -44,12 +44,12 @@ title: Veus del territori - Garrotxa Viva
   </div>
   <div class="video-card">
     <div class="video-container">
-      <iframe src="https://youtube.com/shorts/H5P9N4khzOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe src="https://youtube.com/embed/H5P9N4khzOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
   <div class="video-card">
     <div class="video-container">
-      <iframe src="https://youtube.com/shorts/uDT1oYDsSEI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe src="https://youtube.com/embed/uDT1oYDsSEI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
 </div>
