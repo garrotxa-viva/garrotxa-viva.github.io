@@ -7,6 +7,8 @@ title: Recursos - Garrotxa Viva
 
 # Recursos
 
+- [Informe del Consell de Protecció de la Natura <span class="source">Generalitat de Catalunya</span>](/assets/documents/informe_consell_proteccio_de_la_natura_variant_olot_i_les_preses.pdf)
+
 - [Els 'manneken pis' de la vall <span class="source">El Punt Avui</span>](https://www.elpuntavui.cat/societat/article/12-infraestructures/2554574-els-manneken-pis-de-la-vall.html)
 
 - [La Vall d'en Bas exigeix un informe de l'ACA que garanteixi que la variant d'Olot no afectarà l'aqüífer que travessa <span class="source">La Vanguardia</span>](https://www.lavanguardia.com/local/girona/20250613/10786118/vall-d-bas-exige-informe-aca-garantice-variante-olot-afectara-acuifero-atraviesa.html)
