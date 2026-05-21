@@ -7,6 +7,10 @@ title: Recursos - Garrotxa Viva
 
 # Recursos
 
+- [Camps, famílies pageses i aigua: el nou front contra la variant d’Olot <span class="source">Diari de Girona</span>](https://www.diaridegirona.cat/comarques/2026/05/18/unio-pagesos-recurs-variant-olot-preses-130357300.html)
+
+- [ Unió de Pagesos planta cara a la variant d’Olot i les Preses i acusa Territori d’arrasar la plana agrària <span class="source">Girona Notícies</span>](https://gironanoticies.com/noticia/295944-unio-de-pagesos-planta-cara-a-la-variant-dolot-i-les-preses-i-acusa-territori-darrasar-la-plana-agraria.htm)
+
 - [Informe del Consell de Protecció de la Natura <span class="source">Generalitat de Catalunya</span>](/assets/documents/informe_consell_proteccio_de_la_natura_variant_olot_i_les_preses.pdf)
 
 - [Els 'manneken pis' de la vall <span class="source">El Punt Avui</span>](https://www.elpuntavui.cat/societat/article/12-infraestructures/2554574-els-manneken-pis-de-la-vall.html)
