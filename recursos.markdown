@@ -7,6 +7,10 @@ title: Recursos - Garrotxa Viva
 
 # Recursos
 
+- [El Consell Comarcal de la Garrotxa alerta del risc que la variant d’Olot i les Preses quedi encallada als jutjats <span class="source">Vilaweb</span>](https://www.vilaweb.cat/noticies/el-consell-comarcal-de-la-garrotxa-alerta-del-risc-que-la-variant-dolot-i-les-preses-quedi-encallada-als-jutjats/)
+
+- [40 anys esperant la variant d’Olot: licitada, però camí dels tribunals <span class="source">elmon.cat</span>](https://elmon.cat/moneconomia/macroeconomia/infraestructures/40-anys-esperant-variant-olot-132602/)
+
 - [Camps, famílies pageses i aigua: el nou front contra la variant d’Olot <span class="source">Diari de Girona</span>](https://www.diaridegirona.cat/comarques/2026/05/18/unio-pagesos-recurs-variant-olot-preses-130357300.html)
 
 - [ Unió de Pagesos planta cara a la variant d’Olot i les Preses i acusa Territori d’arrasar la plana agrària <span class="source">Girona Notícies</span>](https://gironanoticies.com/noticia/295944-unio-de-pagesos-planta-cara-a-la-variant-dolot-i-les-preses-i-acusa-territori-darrasar-la-plana-agraria.htm)
