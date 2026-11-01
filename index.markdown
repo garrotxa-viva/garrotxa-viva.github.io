@@ -56,3 +56,16 @@ Aquesta indústria **consumeix elevades quantitats d'aigua**, arribant a una cin
 - Valorar més propostes de la gent de la Garrotxa!
 
 </main>
+
+<section class="content-box video-feature">
+  <div class="video-feature__media">
+    <div class="video-container video-container--vertical">
+      <iframe src="https://www.youtube.com/embed/pGuUnhZcfb4" title="Cançó pel Riu Fluvià" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+  </div>
+  <div class="video-feature__body">
+    <h2>Cançó pel Riu Fluvià</h2>
+    <p>Un cant al riu que travessa la comarca i que volem protegir. Comparteix-la per fer arribar el nostre missatge encara més lluny.</p>
+    <p class="video-feature__link"><a href="https://www.youtube.com/shorts/pGuUnhZcfb4" target="_blank" rel="noopener">Veure a YouTube</a></p>
+  </div>
+</section>

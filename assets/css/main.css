@@ -155,6 +155,39 @@ nav a.active {
   border-radius: 1rem;
 }
 
+/* Portrait (9:16) container for YouTube Shorts */
+.video-container--vertical {
+  padding-bottom: 0;
+  height: auto;
+  aspect-ratio: 9 / 16;
+  max-width: 20rem;
+}
+
+.video-feature {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.video-feature .video-container {
+  margin-bottom: 0;
+}
+
+.video-feature__media {
+  display: flex;
+  justify-content: center;
+}
+
+.video-feature__body h2 {
+  margin-top: 0;
+}
+
+.video-feature__link {
+  margin-bottom: 0;
+}
+
 .video-grid {
   display: grid;
   grid-template-columns: 1fr;
@@ -433,6 +466,11 @@ footer {
     gap: 2.5rem;
   }
 
+  .video-feature {
+    grid-template-columns: 18rem 1fr;
+    gap: 2.5rem;
+  }
+
   .video-card {
     padding: 1.25rem;
   }
@@ -476,6 +514,10 @@ footer {
 
   .video-container {
     margin-bottom: 2rem;
+  }
+
+  .video-container--vertical {
+    max-width: 16rem;
   }
 
   .footer-row {
